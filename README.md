@@ -1,0 +1,2 @@
+# Building-a-prediction-model
+You are asked to build a prediction model that can be used to predict the total number of publications in the future. The prediction model should be evaluated on existing data for prediction accuracy. For example, you could use data up to 2010 to build the model, and test the prediction accuracy for the years after 2010 for which you have the actual number of publications
